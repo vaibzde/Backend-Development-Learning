@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "8536bef49ae6dd13",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3250ab705ede341",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bfcdb6b7a16f857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mongo DB/indexes in mongoDB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8910e914a2ea0d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e83cc4d371bf0510",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cf2a9585b3353e8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "527186916abfe4fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "66ffbadabb829815",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2fab937646d95d62",
+    "type": "split",
+    "children": [
+      {
+        "id": "f711284004e048ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dac0bca8886cd08",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mongo DB/indexes in mongoDB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f7cf51cc121aca40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mongo DB/indexes in mongoDB.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b781de3800aeead3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dc89ad0ec921dd9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mongo DB/indexes in mongoDB.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0cf2a9585b3353e8",
+  "lastOpenFiles": []
+}
